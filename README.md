@@ -1,7 +1,7 @@
 # Smart-Irrigation-System
 This project demonstrates a smart irrigation system designed to efficiently water plants using real-time environmental data. The system integrates temperature and humidity sensors (DHT11/DHT22), a soil moisture sensor, a relay module for controlling a water pump, and a motion sensor for optional security or automation features.
 
-![with water](https://github.com/user-attachments/assets/cc4e7c28-006a-4585-808f-d63eb70c17f7
+![with water](https://github.com/user-attachments/assets/cc4e7c28-006a-4585-808f-d63eb70c17f7)
 ![Screenshot (79)](https://github.com/user-attachments/assets/a6b5b765-a589-4573-9cf5-2c0d73f02adc)
 
                                                   Blynk IOT console which is showing water content in the dashboard.
